@@ -1,3 +1,3 @@
 # GRIPTASK01
 Score prediction using Supervised Machine Learning
-By using Linear Regression Method predicted score for 9.5 hours 
+By using Linear Regression Method predicted score if student studied 9.5 hours per day. 
